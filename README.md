@@ -8,7 +8,7 @@ Essa é a Solutis, flexível, acolhedora, inquieta, amante da tecnologia e de tu
 
 Vagas disponíveis em https://solutis.gupy.io/
 
-Consultem as vagas abertas nas ISSUE
+Consultem as vagas abertas nas ISSUES
 
 OBS: Lembrem-se de se candidatar através da GUPY no link acima 😉
 
